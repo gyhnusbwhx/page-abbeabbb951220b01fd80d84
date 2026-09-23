@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1fff8e44fd09d443f5be8f60",
+  "owner": "gyhnusbwhx",
+  "repo": "page-abbeabbb951220b01fd80d84",
+  "title": "NodesGo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "abbeabbb951220b01fd80d84",
+      "a": "NodesGo",
+      "b": "2027官方最新地址导航",
+      "entity": "NodesGo",
+      "brand": "NodesGo",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b324b3a4e9bbe9ec0dd72630abb31a7b560cff1b18cb436cb302fd066a48cd1d",
+      "content": {
+        "primary_entity": "NodesGo",
+        "keyword1": "NodesGo",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备选择合适的客户端，再导入订阅信息即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按设备配置订阅，即可稳定接入。",
+          "AI_CLOSING_TITLE": "准备好开启加速",
+          "AI_DESCRIPTION": "，围绕设备数量、流量规模与预算挑选套餐，再按客户端文档导入订阅信息，便可顺畅接入节点使用。基础版适合单人轻量浏览，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度出发，快速找到适合自己的选择。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板与电脑可分别安装对应客户端，导入同一订阅信息后即可使用。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更省，基础版年付仅需 ¥150/年，旗舰版 ¥350/年。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备装客户端",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "快速上手",
+          "AI_HERO_INTRO": "NodesGo 提供多种流量与设备规格的加速套餐，覆盖日常浏览、流媒体与游戏加速场景。根据设备数量和用量选择合适档位，配合客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备加速订阅轻松选",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月 起",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "对比流量、设备数与线路规格，选择符合使用习惯的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版与团队版之间选定档位。",
+          "AI_STEP_TEXT_2": "核对所用系统的客户端支持情况与设备数量限制，确认满足日常需求。",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅信息，完成节点配置后即可接入使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_VISUAL_TITLE": "NodesGo 加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，适合手机或平板单人多设备使用；旗舰版每月 300GB、支持 5 台设备，并带有 IPLC 专线游戏加速优化。",
+          "AI_FAQ_ANSWER_2": "大多数代理客户端都支持导入订阅链接，例如 Clash、Shadowrocket、v2rayN 与 Surge。具体导入方式以对应客户端文档为准，不同系统操作路径有所差异。",
+          "AI_FAQ_ANSWER_3": "按年付比按月付更经济。基础版按年付为 ¥150/年，旗舰版为 ¥350/年，团队版为 ¥850/年，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。如果同时在线设备较多，建议直接选择团队版或旗舰版。",
+          "AI_FAQ_ANSWER_5": "团队版在流量、设备数与节点规格上更高，并包含企业定制路由与专属客户经理服务。一般个人用户从基础版或旗舰版起步即可满足需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何在不同设备上导入订阅？",
+          "AI_FAQ_QUESTION_3": "按月付和按年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些用户？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "omgezgk.cn",
+    "host": "omgezgk.cn"
+  },
+  "file_hashes": {
+    "index.html": "5bd8837985eb82dd399f6279ef5f89bd4bd6cced1cadd3fe4174180a43fc7372",
+    "sitemap.xml": "94397fb0a7459a28b8384204bcd488ea7a63a6f23918bebc9f6d240de61bd067",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "11924eb4132e6fdbb10b29fde9bbdbe880b8dee7c775e29ddcf7d3b894c12f47",
+    "robots.txt": "804f74a884732233056343381621bd49dd6411bcd3f9063c17f463c7d0077851",
+    "7ee52b349c6944b4edce653d0ca6d304.txt": "5d24043fa35815597eec1ec2fbd7b843fc8475a617b193449890f3e54a9731d6"
+  },
+  "revision": "5b75f804d6d9637e369d3eb17eb172ada3300b4f01df69124e8bf7913c926104"
+}
